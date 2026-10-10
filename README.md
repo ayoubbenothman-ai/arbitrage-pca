@@ -9,7 +9,8 @@ Ce qui est dans le notebook pour l'instant :
 - un peu d'exploration (graphes, autocorrélations, histos)
 - matrice de corrélation + valeurs/vecteurs propres
 - Marchenko-Pastur : 3 valeurs propres au-dessus du seuil (~1,22), donc on part sur k = 3
-Ce qu'il reste à faire :
+ 
+## Ce qu'il reste à faire :
 1. débruiter la matrice (Ledoit-Wolf et clipping)
 2. construire les eigenportfolios
 3. refaire la PCA sur fenêtre glissante
