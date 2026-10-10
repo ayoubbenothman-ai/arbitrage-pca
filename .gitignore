@@ -1,0 +1,12 @@
+# Environnements virtuels
+venv/
+env/
+__pycache__/
+
+# Fichiers de données ou temporaires (si vous ne voulez pas les versionner)
+data/
+*.csv
+*.xlsx
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
