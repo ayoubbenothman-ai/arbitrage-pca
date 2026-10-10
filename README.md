@@ -17,7 +17,7 @@ Ce qui est dans le notebook pour l'instant :
 4. estimer les beta (OLS glissant, puis Kalman si on a le temps) et récupérer les résidus
 5. résidus cumulés -> Ornstein-Uhlenbeck -> s-scores
 6. backtest (d'abord sans frais, puis avec)
-Attention : à partir de l'étape 3, tout doit être calculé avec les données passées uniquement, sinon le backtest triche. Plus de détails à la fin du notebook.
+
  
 ## Si vous lancez le notebook dans google colabn ajouter ce bloc au début pour installer les librairies
  
